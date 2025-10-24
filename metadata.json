@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFriend Admin Portal",
+  "description": "An AI-powered admin portal for health authorities to monitor community health trends, track medicine inventory, and predict demand during crises using real-time symptom data.",
+  "requestFramePermissions": []
+}
